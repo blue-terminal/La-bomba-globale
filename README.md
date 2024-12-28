@@ -1,2 +1,2 @@
 # La-bomba-globale
-⚠️This project is just an example and is not ready to be used seriously. 🚨Those who use it do so at their own risk, and the author assumes no responsibility for any problems that may arise(English: do not run on main computer ⚠ ️⛔)
+⚠️This project is a prototype intended for demonstration and research purposes only. It is not designed for production use and may contain bugs, vulnerabilities or other imperfections. The author declines all responsibility for direct or indirect damages caused by the use of this software. The user is solely responsible for the use he makes of it and the consequences that derive from it. ⚠ ️⛔)
