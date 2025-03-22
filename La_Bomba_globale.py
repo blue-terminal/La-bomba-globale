@@ -1,6 +1,9 @@
 import tkinter as tk
 from tkinter import messagebox
 
+░▒█░▒█░█▀▀▄░▒█▀▀▄░▒█░▄▀░▒█▀▀▀░▒█▀▀▄
+░▒█▀▀█▒█▄▄█░▒█░░░░▒█▀▄░░▒█▀▀▀░▒█▄▄▀
+░▒█░▒█▒█░▒█░▒█▄▄▀░▒█░▒█░▒█▄▄▄░▒█░▒█
 def show_warning():
     answer = messagebox.askyesno("Internet Connection Wizard", "sei sicuro di volore eseguire?\n")
     if answer:
